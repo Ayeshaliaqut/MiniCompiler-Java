@@ -10,14 +10,14 @@ Term' → * Factor Term' | ε
 Factor → id
 ```
 
-### ✔ What it Does
+### What it Does
 
 * Reads a tokenized input (like: `id + id * id`)
 * Checks if it follows the grammar rules
 * Prints **"Parsing successful!"** if the syntax is valid
 * Throws a clear syntax error message if something is wrong
 
-### ▶ How to Run
+###  How to Run
 
 1. Save the Java code in a file named `SyntaxAnalyzer.java`.
 2. Compile:
